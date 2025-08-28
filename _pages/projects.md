@@ -5,7 +5,7 @@ permalink: /projects/
 description: What I've been building
 nav: true
 nav_order: 3
-display_categories: [work, add_own_categories]
+display_categories: [work] # Add other categories
 horizontal: false
 ---
 
