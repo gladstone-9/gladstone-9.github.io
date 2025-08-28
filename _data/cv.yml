@@ -2,45 +2,42 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Gabriel Gladstone
+    # - name: Date of Birth
+    #   value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelors of Science
+      institution: University of Virginia
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Graduated with Highest Distinction in Computer Engineering
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Masters of Engineering
+      institution: University of Virginia
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Pursuing a M.E. in Computer Engineering
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Security Engineer Intern
+      institution: Atlassian
+      year: May 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Built a SAST scanner to secure 4000+ Forge apps on Atlassian Marketplace finding 17 vulnerabilities.
+        - Performed app reviews, security reviews, and threat modeling for features throughout Atlassian products.
+        - Built a scanner pipeline with Splunk and Jira integration and reduced incident response setup time by 15x.
+        - Extended an open-source insecure forge app with an XSS OWASP vulnerability to guide 3rd-party developers.
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933

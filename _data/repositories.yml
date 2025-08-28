@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - gladstone-9
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - gladstone-9/ClearAudit
+  - wspencerhurst/BeaconClassifier
+  - gladstone-9/cs6501-life-correlations
+  - gladstone-9/cs6501-place-sense
+  - gladstone-9/cs6501-bespoke-framework
+  - gladstone-9/AMR_GaurdDog
+  - gladstone-9/GeoQuest
