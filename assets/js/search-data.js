@@ -48,11 +48,26 @@ ninja.data = [{
           description: "A real-time autonomous patrol system for securing a bounded environment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/amr_robotic_gaurd_dog/";
+            },},{id: "projects-beacon-classifier",
+          title: 'Beacon Classifier',
+          description: "Machine learning pipeline to detect Command and Control (C2) beaconing activity from Zeek network logs.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/beacon_classifier/";
+            },},{id: "projects-inferring-sleep-behavior",
+          title: 'Inferring Sleep Behavior',
+          description: "A framework for accurate sleep inferencing.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bespoke_framework/";
             },},{id: "projects-distributed-mppt-solar-charge-controller",
           title: 'Distributed MPPT Solar Charge Controller',
           description: "Design and implementation of a Module Cascaded Converter charging system for UVA Solar Car.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/capstone/";
+            },},{id: "projects-clear-audit",
+          title: 'Clear Audit',
+          description: "A platform designed to help data publishers create differentially private datasets and data releases.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/clear_audit/";
             },},{id: "projects-cube-chaser",
           title: 'Cube Chaser',
           description: "A multithreaded game on the Tiva C microcontroller.",
@@ -63,11 +78,26 @@ ninja.data = [{
           description: "Holiday lights that respond to music based on the measured frequency.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fun2_spectrum_analyzer/";
+            },},{id: "projects-electrocardiography-ekg-system",
+          title: 'Electrocardiography (EKG) System',
+          description: "A custom PCB EKG System to measure heartbeats.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fun3_ekg/";
+            },},{id: "projects-place-sense",
+          title: 'Place Sense',
+          description: "A Google Timeline Extension for Location Classification.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/place_sense/";
             },},{id: "projects-automated-gui-testing",
           title: 'Automated GUI Testing',
           description: "The Fuzzingbook extension to support functional GUI fuzz testing on modern web frameworks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/software_analysis_gui_testing/";
+            },},{id: "projects-stress-impacts-on-lifestyle-behavior",
+          title: 'Stress Impacts On Lifestyle Behavior',
+          description: "A scalable online study of work and daily activity.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/stress_on_lifestyle/";
             },},{
         id: 'social-email',
         title: 'email',
