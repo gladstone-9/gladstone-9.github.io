@@ -33,7 +33,7 @@ Hi I'm Gabriel. I am a Masters student at the University of Virginia’s School 
 ## 🔧 What I'm Working On  
 
 - **Autonomous Racing:** I am an Autonomy Researcher contributing to perception and motion planning at [Cavalier Autonomous Racing](https://autonomousracing.dev/).  
-- **Cybersecurity:** Studying for the Security+ certification.  
+- **Cybersecurity:** Building Atlassian's enterprise secure App Store.
 - **Rock Climbing:** Training towards completing my first V6 problem! 
 
 ---
